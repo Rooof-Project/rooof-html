@@ -2344,3 +2344,94 @@ height: 40px;
 }
 
 /* end form registro */
+
+/* start crea-evento-y-formulario */
+
+.wrap3 h1 {
+	text-align: center;
+	font-weight: 400;
+	padding: 40px 0px;
+	color: #333;
+	font-size: 2rem;
+}
+
+.wrap3 {
+	margin-bottom: 50px;
+	float: left;
+}
+
+.wrap3 p {
+	color: #ff3766;
+	font-size: 2rem;
+	float: left;
+	line-height: 0rem;
+}
+
+.wrap3 form select {
+	float: left;
+	border: 0;
+	border-radius: 0;
+	width: 250px;
+	height: 65px;
+	margin: 0px 20px;
+	font-size: 1.8rem;
+	color: #333;
+	font-weight: 300;
+}
+
+.wrap3-form {
+	margin: 0px auto;
+	width: 70%;
+}
+
+.wrap3 input.text {
+	width: 100%;
+	height: 56px;
+	font-size: 1.8rem;
+	background-color: #eaeaea;
+	border: none;
+	border-bottom: solid 1px #333;
+	float: left;
+}
+
+.wrap3 p.aforo {
+	float: left;
+	margin: 60px 0px 0px 240px;
+}
+
+.wrap3 input.aforo {
+	float: left;
+	width: 94px;
+	height: 54px;
+	clear: left;
+	font-size: 1.8rem;
+	text-align: center;
+	margin: 50px auto;
+	margin-left: 41%;
+}
+
+.wrap3 p.barrio {
+	float: left;
+	clear: left;
+	margin-left: 43%;
+}
+
+.select-category-barrio {
+	clear: left;
+	margin: 20px 0px 30px 29%;
+	float: left;
+}
+
+.crea-evento-form {
+	clear: left;
+}
+
+.wrap3 p:last-child {
+	color: #000;
+	font-size: 16px;
+	text-align: center;
+	float: left;
+	margin: 50px 0px 70px 20%;
+}
+
+/* end of crea-evento-y-formulario */
