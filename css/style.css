@@ -2358,6 +2358,8 @@ height: 40px;
 .wrap3 {
 	margin-bottom: 50px;
 	float: left;
+	background-color: #eaeaea;
+	width: 100%;
 }
 
 .wrap3 p {
